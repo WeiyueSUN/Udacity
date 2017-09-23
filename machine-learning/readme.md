@@ -1,1 +1,1 @@
-Weiyue Sun's projects in Machine Learning Engineer Nanodegree at Udacity.
+My personal projects in Machine Learning Engineer Nanodegree at Udacity.
